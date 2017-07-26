@@ -1,8 +1,10 @@
 # Blockchain Evaluator (BCE) 
-Evaluate a BlockChain Stack
+BCE is a Framework used to evaluate block chain Technology stacks.
 
-### How to evaluate a Blockchain Stack
+### How to evaluate a Blockchain Stack using BCE
 
 ### Areas identified for Evaluation 
 
-### Application The Evaluator Uses To Evaluate a Blockchain Stack
+### BCE Applications used To Evaluate a Blockchain Stack
+
+

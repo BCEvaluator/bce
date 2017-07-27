@@ -12,8 +12,10 @@ BCE is a Framework used to evaluate block chain technology stacks.
 - consensus
 
 ### Components
+- DL
 - Clients
 - Wallets
+- DAO
 
 ### Tooling
 

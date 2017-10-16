@@ -5,13 +5,13 @@ BCE is a Framework used to evaluate block chain technology stacks.
 ### Areas identified for showcasing BlockChain Tech Stack(BCTS) capabilities
 
 
-### Algos
+### Consensus Algos
 
 - POW 
 - POS
-- consensus
+- others
 
-### Components
+### Protocol and Application Components
 - DL
 - Clients
 - Wallets
